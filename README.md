@@ -6,4 +6,4 @@ This repo contains examples used in a video, introducing viewer to the threads, 
 # Important
 
 - use -std=c++20 and -pthread flags while compiling
-- latch and barrier headers work with g++ 11.x.x versions and above
+- latches, barriers and semaphores work with g++ 11.1.x versions and above
